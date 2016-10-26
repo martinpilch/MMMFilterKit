@@ -1,0 +1,6 @@
+framework module Pods_MMMFilterKit_Example {
+  umbrella header "Pods-MMMFilterKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

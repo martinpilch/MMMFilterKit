@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MMMFilterKit_Example' do
+  pod 'MMMFilterKit', :path => '../'
+
+  target 'MMMFilterKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

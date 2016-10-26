@@ -1,0 +1,16 @@
+PODS:
+  - MMMFilterKit (0.1.0)
+
+DEPENDENCIES:
+  - MMMFilterKit (from `../`)
+
+EXTERNAL SOURCES:
+  MMMFilterKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MMMFilterKit: b57d19b221bd15e2bbe4b5d77412f609609d36b1
+
+PODFILE CHECKSUM: 9f0f22eb2f2ea7273b00d91bff0a0c91fc641e81
+
+COCOAPODS: 1.1.1

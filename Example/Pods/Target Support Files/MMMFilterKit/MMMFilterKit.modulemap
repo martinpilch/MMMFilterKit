@@ -1,0 +1,6 @@
+framework module MMMFilterKit {
+  umbrella header "MMMFilterKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
