@@ -28,7 +28,7 @@ Inspired by great CIFilterKit!
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Martin Pilch' => 'martin.pilch@email.cz' }
   s.source           = { :git => 'https://github.com/martinpilch/MMMFilterKit.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.social_media_url = 'https://twitter.com/Martin_Pilch'
 
   s.ios.deployment_target = '8.0'
 
