@@ -1,6 +1,5 @@
 # MMMFilterKit
 
-[![CI Status](http://img.shields.io/travis/Martin Pilch/MMMFilterKit.svg?style=flat)](https://travis-ci.org/Martin Pilch/MMMFilterKit)
 [![Version](https://img.shields.io/cocoapods/v/MMMFilterKit.svg?style=flat)](http://cocoapods.org/pods/MMMFilterKit)
 [![License](https://img.shields.io/cocoapods/l/MMMFilterKit.svg?style=flat)](http://cocoapods.org/pods/MMMFilterKit)
 [![Platform](https://img.shields.io/cocoapods/p/MMMFilterKit.svg?style=flat)](http://cocoapods.org/pods/MMMFilterKit)
